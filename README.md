@@ -10,7 +10,7 @@ This project posses feature like iconic bahance header bar following with search
 Responsive grid and likes increasing feature on one click in highlight features of the website.
 Then the project contain a responsive and attractive grid consist of data contents such as img, name, writter, total likes and views. As a last part , a footer is created with all the essential option needed.
 
-# To rum and host this project in local server follow the following steps:
+# To run and host this project in local server follow the following steps:
 1. install react, node and create a folder and open in editor.
 2. After opening folder in editor install all dependencies and node modules.
 3. Install tailwind,css and react-icon. Confirm then in .json file.
