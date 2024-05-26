@@ -6,7 +6,7 @@ This project is made mainly with technologies:
 2. Tailwind.css
 3. React-icons.
 
-This project posses feature like iconic bahance header bar following with searchbar and behance-tags. Then on the next part a filter component is rendored with showcase many type of filters and reccomendation with can be implemented to filter the rendored data.
+This project posses feature like iconic bahance header bar following with searchbar and behance-tags. Then on the next part a filter component is rendored which showcase many type of filters and reccomendation which can be implemented or used to filter the rendored data.
 Responsive grid and likes increasing feature on one click in highlight features of the website.
 Then the project contain a responsive and attractive grid consist of data contents such as img, name, writter, total likes and views. As a last part , a footer is created with all the essential option needed.
 
@@ -20,5 +20,5 @@ Then the project contain a responsive and attractive grid consist of data conten
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Live line of the project:
+Live link of the project:
 - (https://66536d89c5217297dcce1d68--quiet-buttercream-66f100.netlify.app/)
