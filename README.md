@@ -7,7 +7,8 @@ This project is made mainly with technologies:
 3. React-icons.
 
 This project posses feature like iconic bahance header bar following with searchbar and behance-tags. Then on the next part a filter component is rendored which showcase many type of filters and reccomendation which can be implemented or used to filter the rendored data.
-Responsive grid and likes increasing feature on one click in highlight features of the website.
+
+Responsive grid , grid image zoom in-out on hover, image likes increasing feature on one click ,grid items sorting on recommended filter option in fiilter bar are some highlight features of the website.
 Then the project contain a responsive and attractive grid consist of data contents such as img, name, writter, total likes and views. As a last part , a footer is created with all the essential option needed. It also posses a custom user made fevicon icon.
 
 # To run and host this project in local server follow the following steps:
