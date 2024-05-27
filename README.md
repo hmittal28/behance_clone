@@ -1,4 +1,6 @@
 # Getting Started with Behance Clone
+![Uploading image.png…]()
+
 This is a Clone project of Behance Website (https://www.behance.net/)
 This project is made to implement the frontend features and components of behance website.
 This project is made mainly with technologies:
