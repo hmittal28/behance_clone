@@ -1,5 +1,6 @@
-![image](https://github.com/hmittal28/behance_clone/assets/107806450/63b546b5-7b48-47d8-b585-ef69f55d7b1e)# Getting Started with Behance Clone
-<img src='' />
+![image](https://github.com/hmittal28/behance_clone/assets/107806450/63b546b5-7b48-47d8-b585-ef69f55d7b1e)
+# Getting Started with Behance Clone
+
 
 
 This is a Clone project of Behance Website (https://www.behance.net/)
